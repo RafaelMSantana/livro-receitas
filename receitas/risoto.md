@@ -1,6 +1,6 @@
 # Receita básica de risoto
 
-##Ingredientes:
+## Ingredientes:
 
  - 1/2 cebola picada
  - 3 colheres (sopa) de azeite
@@ -11,7 +11,7 @@
  - Pimenta do reino (prefiro usar a pimenta branca)
  - 1 colher (sopa) bem cheia de manteiga
 
-##Passos:
+## Passos:
 
 1. Coloque a água para ferver e dissolva nela os tabletes de caldo de legumes. Depois que ferver, desligue e mantenha a panela com água ao lado da panela em que fará o risoto. Mas claro, se usar caldo caseiro é mais saudável e mais gostoso.
 
